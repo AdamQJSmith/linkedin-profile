@@ -24,7 +24,7 @@ Full-time · Remote
 
 ### Product Services Support Specialist
 
-[start month] to Sep 2026
+May 2026 to Sep 2026
 
 Permanent Full-time · Remote
 
@@ -35,7 +35,7 @@ Listed skills: Product Analysis, New Product Release
 
 ### Support Specialist
 
-Dec 2021 to [end month]
+Dec 2021 to Apr 2026
 
 Permanent Full-time · Remote
 

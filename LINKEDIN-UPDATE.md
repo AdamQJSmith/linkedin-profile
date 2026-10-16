@@ -4,7 +4,7 @@ The copy and steps for bringing LinkedIn in line with content/profile.json. Work
 
 LinkedIn descriptions are plain text. Paste each description as shown, one • line per bullet. Leave skills as they are for now; they haven't been reviewed yet.
 
-**Still to confirm before posting:** the month Adam became Product Services Support Specialist. It is the start date of that position, and the month before it is the end date of Support Specialist.
+Product Services Support Specialist dates come from Slack and Workday: Retail and Shop merged into one Product Services Support team in May 2026 (Amie Brogan's announcement, May 1, 2026; new lead in Workday from May 10, 2026).
 
 ## Intro
 
@@ -56,7 +56,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 - [ ] **Edit Product Support Specialist**
   - Title: Product Services Support Specialist
-  - Start: [to confirm]. End: September 2026 (uncheck "currently working")
+  - Start: May 2026. End: September 2026 (uncheck "currently working")
   - Description:
 
 ```
@@ -66,7 +66,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 - [ ] **Edit Core Support Advisor**
   - Title: Support Specialist
-  - Start: December 2021. End: [month before Product Services Support Specialist started]
+  - Start: December 2021. End: April 2026
   - Description:
 
 ```
@@ -128,5 +128,4 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## After LinkedIn is updated
 
-- Fill in the Product Services Support Specialist dates in content/profile.json and run `python build.py`.
 - Review skills for each position.

@@ -15,7 +15,7 @@ This repository holds Adam Smith's LinkedIn experience and a GitHub Pages websit
 
 ## Profile style (agreed with Adam, October 15, 2026)
 
-- One LinkedIn position per official title, matching Workday. Workday lists Junior Support Advisor (Feb 9, 2021 to Nov 30, 2021), one position called Specialist, Support (Dec 1, 2021 to Sep 10, 2026) and Engineer (from Sep 11, 2026). Product Services Support Specialist was Adam's last title inside Specialist, Support. Its start month is still to be confirmed with Adam.
+- One LinkedIn position per official title, matching Workday. Workday lists Junior Support Advisor (Feb 9, 2021 to Nov 30, 2021), one position called Specialist, Support (Dec 1, 2021 to Sep 10, 2026) and Engineer (from Sep 11, 2026). Product Services Support Specialist was Adam's last title inside Specialist, Support, from May 2026 when Retail and Shop support merged.
 - At most 3 bullets per role. Each bullet is one short line that starts with a verb and sums up the work at a high level. Leave out metrics and project details; people can reach out for more.
 - Present tense for the current role. Past tense for past roles.
 - Use technical wording when it is accurate. Keep internal project names, partner names and unreleased hardware off the profile, since the repo and LinkedIn are public.
