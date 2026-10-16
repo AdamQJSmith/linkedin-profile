@@ -13,6 +13,7 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 ## Intro
 
 - Headline stays as it is: RnD @ Shopify / U.S. and Canadian citizen.
+- [x] **Industry:** Software Development (was Wellness and Fitness Services)
 
 ## About
 
@@ -130,6 +131,10 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 ⚬ Improved staff retention
 ```
 
-## Still open
+## Position skills
 
-- Review skills for each position. The Engineer position has none yet.
+- [x] **Engineer:** Payments, Point of Sale (POS) Systems, Research and Development (R&D), Payment Systems, FinTech. Adam only wants skills on the Engineer position reviewed; the others stay as they are.
+
+## Licenses and certifications
+
+Already on LinkedIn, no change needed. Introduction to AI and Machine Learning on Google Cloud (Google, Sep 2024) and Google Advanced Data Analytics (Nov 2023) show first. APIs (Meta, Oct 2023) and the University of Virginia product management courses follow.
