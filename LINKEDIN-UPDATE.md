@@ -15,6 +15,14 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 - [x] **Headline:** R&D @ Shopify | Payments and POS hardware | U.S. and Canadian citizen (was RnD @ Shopify / U.S. and Canadian citizen.)
 - [x] **Industry:** Software Development (was Wellness and Fitness Services)
 
+## Contact info
+
+- [x] **Website:** https://github.com/AdamQJSmith (Portfolio). Replaced azurediscord.com (Company), which no longer loads.
+
+## Education
+
+- [x] **York University, Bachelor's degree, Philosophy (2014 to 2019):** activities stay Dean's list 4 semesters in a row. Description is now: Specialized in analytic philosophy and logic. It replaced a paragraph written for product management applications.
+
 ## Banner
 
 - [x] **Cover image:** space banner in assets/banner/linkedin-banner.png (uploaded October 16, 2026). The old Toronto skyline banner is saved next to it.
