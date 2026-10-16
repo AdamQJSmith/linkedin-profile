@@ -12,7 +12,7 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 
 ## Intro
 
-- Headline stays as it is: RnD @ Shopify / U.S. and Canadian citizen.
+- [x] **Headline:** R&D @ Shopify | Payments and POS hardware | U.S. and Canadian citizen (was RnD @ Shopify / U.S. and Canadian citizen.)
 - [x] **Industry:** Software Development (was Wellness and Fitness Services)
 
 ## About
