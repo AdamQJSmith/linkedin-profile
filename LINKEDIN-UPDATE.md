@@ -2,7 +2,7 @@
 
 The copy and steps for bringing LinkedIn in line with content/profile.json. **Done October 15, 2026:** every item below is live on https://www.linkedin.com/in/adam-smith-5bb8661ab/. Keep this file as the record of what LinkedIn shows, and update it with any future LinkedIn change.
 
-LinkedIn descriptions are plain text. Paste each description as shown, one • line per bullet. Skills on each position haven't been reviewed yet.
+LinkedIn descriptions are plain text. Paste each description as shown, one ⚬ line per bullet. Skills on each position haven't been reviewed yet.
 
 Adding the Engineer position made LinkedIn rewrite the headline to Engineer, Retail R&D at Shopify. It was set back by hand. Check the headline after any new position.
 
@@ -46,16 +46,16 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## Shopify
 
-- [x] **Add position: Engineer, Retail R&D**
+- [x] **Add position: Engineer, R&D: Retail Payments & New Features** (Adam renamed it from Engineer, Retail R&D on LinkedIn)
   - Employment type: Full-time
   - Location: Ontario, Canada. Location type: Remote
   - Start: September 2026. Check "I am currently working in this role"
   - Description:
 
 ```
-• Research and develop new Shopify POS hardware
-• Ensure Shopify POS checkout reliability
-• Expand Shopify POS payments globally
+⚬ Research and develop new Shopify POS hardware
+⚬ Ensure Shopify POS checkout reliability
+⚬ Expand Shopify POS payments globally
 ```
 
 - [x] **Edit Product Support Specialist**
@@ -64,8 +64,8 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
   - Description:
 
 ```
-• Resolved complex Shopify POS and Shop app issues
-• Turned merchant feedback into product fixes
+⚬ Resolved complex Shopify POS and Shop app issues
+⚬ Turned merchant feedback into product fixes
 ```
 
 - [x] **Edit Core Support Advisor**
@@ -74,9 +74,9 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
   - Description:
 
 ```
-• Supported merchants across Core, Billing and Retail
-• Built support operations for new Shopify programs
-• Led Retail knowledge management
+⚬ Supported merchants across Core, Billing and Retail
+⚬ Built support operations for new Shopify programs
+⚬ Led Retail knowledge management
 ```
 
 - [x] **Delete Support Mentor.** Mentoring is part of the Support Specialist position now.
@@ -84,7 +84,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 - [x] **Edit Junior Support Advisor** (dates stay Feb 2021 to Nov 2021)
 
 ```
-• Supported merchants launching and growing their businesses
+⚬ Supported merchants launching and growing their businesses
 ```
 
 ## VersaStrength
@@ -94,8 +94,8 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
   - Description:
 
 ```
-• Took a home fitness device from concept to prototype
-• Secured IP Ontario patent funding
+⚬ Took a home fitness device from concept to prototype
+⚬ Secured IP Ontario patent funding
 ```
 
 ## PolyShell, LLC
@@ -103,9 +103,9 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 - [x] **Edit Customer Development**
 
 ```
-• Delivered Azure cloud solutions for small businesses
-• Guided product direction through user research
-• Grew customer retention and sales
+⚬ Delivered Azure cloud solutions for small businesses
+⚬ Guided product direction through user research
+⚬ Grew customer retention and sales
 ```
 
 ## Portfolio Strategies Corporation
@@ -115,9 +115,9 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
   - Description:
 
 ```
-• Led sales training and enablement
-• Built the sales knowledge base
-• Aligned Sales, Legal and Compliance processes
+⚬ Led sales training and enablement
+⚬ Built the sales knowledge base
+⚬ Aligned Sales, Legal and Compliance processes
 ```
 
 ## Advantage Car and Truck Rentals
@@ -125,9 +125,9 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 - [x] **Edit Regional Manager**
 
 ```
-• Led operations across corporate and franchise locations
-• Grew regional revenue through new partnerships
-• Improved staff retention
+⚬ Led operations across corporate and franchise locations
+⚬ Grew regional revenue through new partnerships
+⚬ Improved staff retention
 ```
 
 ## Still open

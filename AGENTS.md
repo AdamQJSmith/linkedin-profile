@@ -19,7 +19,7 @@ This repository holds Adam Smith's LinkedIn experience and a GitHub Pages websit
 - At most 3 bullets per role. Each bullet is one short line that starts with a verb and sums up the work at a high level. Leave out metrics and project details; people can reach out for more.
 - Present tense for the current role. Past tense for past roles.
 - Use technical wording when it is accurate. Keep internal project names, partner names and unreleased hardware off the profile, since the repo and LinkedIn are public.
-- LinkedIn descriptions are plain text. Type bullets with the • character.
+- LinkedIn descriptions are plain text. Type bullets with the ⚬ character (U+26AC, medium small white circle). Adam picked it over •, ●, ○ and ◦.
 
 ## Writing rules
 

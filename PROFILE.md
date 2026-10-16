@@ -12,7 +12,7 @@ I started at Shopify in merchant support and spent five years across Core, Billi
 
 ## Shopify
 
-### Engineer, Retail R&D
+### Engineer, R&D: Retail Payments & New Features
 
 Sep 2026 to Present
 
