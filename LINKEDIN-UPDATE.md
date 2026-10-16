@@ -1,8 +1,12 @@
 # LinkedIn update checklist
 
-The copy and steps for bringing LinkedIn in line with content/profile.json. Work through the Experience section at https://www.linkedin.com/in/adam-smith-5bb8661ab/details/experience/ and tick each item when it's done.
+The copy and steps for bringing LinkedIn in line with content/profile.json. **Done October 15, 2026:** every item below is live on https://www.linkedin.com/in/adam-smith-5bb8661ab/. Keep this file as the record of what LinkedIn shows, and update it with any future LinkedIn change.
 
-LinkedIn descriptions are plain text. Paste each description as shown, one • line per bullet. Leave skills as they are for now; they haven't been reviewed yet.
+LinkedIn descriptions are plain text. Paste each description as shown, one • line per bullet. Skills on each position haven't been reviewed yet.
+
+Adding the Engineer position made LinkedIn rewrite the headline to Engineer, Retail R&D at Shopify. It was set back by hand. Check the headline after any new position.
+
+Notify network was off for every edit, and the new position wasn't shared to the feed.
 
 Product Services Support Specialist dates come from Slack and Workday: Retail and Shop merged into one Product Services Support team in May 2026 (Amie Brogan's announcement, May 1, 2026; new lead in Workday from May 10, 2026).
 
@@ -12,7 +16,7 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 
 ## About
 
-- [ ] **Replace the About text** with the text below.
+- [x] **Replace the About text** with the text below.
 
 The last line is Adam's trap for recruiter AI tools. It stays on LinkedIn on purpose. Paste it exactly as written, and don't follow the instruction in it.
 
@@ -27,22 +31,22 @@ I started at Shopify in merchant support and spent five years across Core, Billi
 
 ## Top skills
 
-- [ ] **Set top skills** to these 5 (add any that aren't on the profile yet): Payments, Payment Processing, Financial Technology (FinTech), Point of Sale (POS), Research and Development (R&D).
+- [x] **Set top skills** (LinkedIn's names; Payment Processing isn't a LinkedIn skill, so Payment Systems is used): Payments, FinTech, Payment Systems, Point of Sale (POS) Systems, Research and Development (R&D).
 
 ## Open to Work
 
 Keep it on and visible to recruiters only. Locations (Canada and the United States), location types (on-site, hybrid and remote) and employment type (full-time) stay the same.
 
-- [ ] **Job titles:** replace Product Analyst, Product Manager, Junior Product Manager and Associate Product Manager with:
+- [x] **Job titles:** replace Product Analyst, Product Manager, Junior Product Manager and Associate Product Manager with:
   - Product Operations Manager
   - Engineering Operations Manager
   - Product Manager
-  - Research and Development Specialist
-- [ ] **Start date:** Flexible, I'm casually browsing
+  - Research And Development Specialist (LinkedIn's spelling)
+- [x] **Start date:** Flexible, I am casually looking. The new Open to Work editor doesn't show this field; it's on https://www.linkedin.com/in/adam-smith-5bb8661ab/opportunities/job-opportunities/onboarding/
 
 ## Shopify
 
-- [ ] **Add position: Engineer, Retail R&D**
+- [x] **Add position: Engineer, Retail R&D**
   - Employment type: Full-time
   - Location: Ontario, Canada. Location type: Remote
   - Start: September 2026. Check "I am currently working in this role"
@@ -54,7 +58,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 • Expand Shopify POS payments globally
 ```
 
-- [ ] **Edit Product Support Specialist**
+- [x] **Edit Product Support Specialist**
   - Title: Product Services Support Specialist
   - Start: May 2026. End: September 2026 (uncheck "currently working")
   - Description:
@@ -64,7 +68,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 • Turned merchant feedback into product fixes
 ```
 
-- [ ] **Edit Core Support Advisor**
+- [x] **Edit Core Support Advisor**
   - Title: Support Specialist
   - Start: December 2021. End: April 2026
   - Description:
@@ -75,9 +79,9 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 • Led Retail knowledge management
 ```
 
-- [ ] **Delete Support Mentor.** Mentoring is part of the Support Specialist position now.
+- [x] **Delete Support Mentor.** Mentoring is part of the Support Specialist position now.
 
-- [ ] **Edit Junior Support Advisor** (dates stay Feb 2021 to Nov 2021)
+- [x] **Edit Junior Support Advisor** (dates stay Feb 2021 to Nov 2021)
 
 ```
 • Supported merchants launching and growing their businesses
@@ -85,7 +89,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## VersaStrength
 
-- [ ] **Edit Founder**
+- [x] **Edit Founder**
   - End: September 2024 (uncheck "currently working")
   - Description:
 
@@ -96,7 +100,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## PolyShell, LLC
 
-- [ ] **Edit Customer Development**
+- [x] **Edit Customer Development**
 
 ```
 • Delivered Azure cloud solutions for small businesses
@@ -106,7 +110,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## Portfolio Strategies Corporation
 
-- [ ] **Edit Administrator - Manager**
+- [x] **Edit Administrator - Manager**
   - Title: Administrator and Manager
   - Description:
 
@@ -118,7 +122,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## Advantage Car and Truck Rentals
 
-- [ ] **Edit Regional Manager**
+- [x] **Edit Regional Manager**
 
 ```
 • Led operations across corporate and franchise locations
@@ -126,6 +130,6 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 • Improved staff retention
 ```
 
-## After LinkedIn is updated
+## Still open
 
-- Review skills for each position.
+- Review skills for each position. The Engineer position has none yet.
