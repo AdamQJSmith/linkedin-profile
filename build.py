@@ -10,7 +10,8 @@ sections = []
 current = []
 markdown = [f"# {profile['name']}: Experience", '',
             f"[LinkedIn]({profile['linkedin']})", '',
-            f"Updated {profile['updated']}. Edit content/profile.json and run python build.py. The original LinkedIn text from {profile['snapshot_date']} is in source/linkedin-original.txt.", '']
+            f"Updated {profile['updated']}. Edit content/profile.json and run python build.py. The original LinkedIn text from {profile['snapshot_date']} is in source/linkedin-original.txt.", '',
+            '## About', '', *[p + '\n' for p in profile['about']]]
 for company in profile['companies']:
     roles = []
     markdown += [f"## {company['name']}", '']
@@ -63,7 +64,7 @@ html = f'''<!doctype html>
         <div>
           <p class="eyebrow">Professional experience</p>
           <h1 id="intro-heading">{e(profile['hero']['line1'])}<br><em>{e(profile['hero']['line2'])}</em></h1>
-          <p class="intro">{e(profile['intro'])}</p>
+          {''.join(f'<p class="intro">{e(p)}</p>' for p in profile['about'])}
           <a class="button" href="#experience">Explore my experience <span aria-hidden="true">↓</span></a>
         </div>
         <aside class="now" aria-label="Current roles">

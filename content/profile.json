@@ -3,7 +3,6 @@
   "linkedin": "https://www.linkedin.com/in/adam-smith-5bb8661ab/",
   "repository": "https://github.com/AdamQJSmith/linkedin-profile",
   "snapshot_date": "October 15, 2026",
-  "intro": "Engineer on Shopify’s Retail R&D team, researching and developing new Shopify POS hardware.",
   "companies": [
     {
       "id": "shopify",
@@ -168,5 +167,9 @@
   "hero": {
     "line1": "From support",
     "line2": "to engineering."
-  }
+  },
+  "about": [
+    "I'm an engineer on Shopify's Retail R&D team. I research and develop new Shopify POS hardware, keep checkout reliable and expand Shopify POS payments globally.",
+    "I started at Shopify in merchant support and spent five years across Core, Billing, Retail and Technical Support. My time with merchants helps me build the best possible user experience."
+  ]
 }
