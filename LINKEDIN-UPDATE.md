@@ -47,7 +47,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## Shopify
 
-- [x] **Add position: Engineer, R&D: Retail Payments & New Features** (Adam renamed it from Engineer, Retail R&D on LinkedIn)
+- [x] **Add position: Engineer, Retail Payments R&D** (title chosen with Adam after trying Engineer, Retail R&D and Engineer, R&D: Retail Payments & New Features)
   - Employment type: Full-time
   - Location: Ontario, Canada. Location type: Remote
   - Start: September 2026. Check "I am currently working in this role"
