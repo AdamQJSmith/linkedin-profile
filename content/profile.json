@@ -3,7 +3,6 @@
   "linkedin": "https://www.linkedin.com/in/adam-smith-5bb8661ab/",
   "repository": "https://github.com/AdamQJSmith/linkedin-profile",
   "snapshot_date": "October 15, 2026",
-  "intro": "Connect support, product, and engineering to turn merchant signals into fixes and features.",
   "companies": [
     {
       "id": "shopify",
@@ -11,20 +10,33 @@
       "short_name": "Shopify",
       "roles": [
         {
-          "title": "Product Support Specialist",
+          "title": "Engineer, Retail Payments R&D",
+          "employment": "Full-time",
+          "location": "Remote",
+          "dates": "Sep 2026 to Present",
+          "paragraphs": [],
+          "bullets": [
+            "Research and develop new Shopify POS hardware",
+            "Ensure Shopify POS checkout reliability",
+            "Expand Shopify POS payments globally"
+          ],
+          "skills": [
+            "Payments",
+            "Point of Sale (POS) Systems",
+            "Research and Development (R&D)",
+            "Payment Systems",
+            "FinTech"
+          ]
+        },
+        {
+          "title": "Product Services Support Specialist",
           "employment": "Permanent Full-time",
           "location": "Remote",
-          "dates": "May 2023 - Present",
-          "paragraphs": [
-            "Connect support, product, and engineering to turn merchant signals into fixes and features."
-          ],
+          "dates": "May 2026 to Sep 2026",
+          "paragraphs": [],
           "bullets": [
-            "Tier 3 technical support - last line for support. File GitHub issues with repro steps, logs, and severity. Coordinate incident response for broad-impact events.",
-            "Partnered with sales, technical, and product on QuickBooks integrations - contributed to onboarding 18,000+ merchants and $60M in 2024 revenue.",
-            "Product Owner for Retail Products. Bridged technical, support, and sales. Reduced documentation update cycle time 57% (from 70+ days to 30) and improved clarity for teams.",
-            "Built business case for Monosap’s migration from Google Cloud to AWS - delivered a 10% hosting cost reduction and enabled support optimizations that reduced support debt by 2%.",
-            "Led knowledge management overhaul. Decentralized ownership so departments manage updates. Sustained 95%+ accuracy.",
-            "Established support protocols for the Shopify Supply Store. Integrated customer feedback and third party platform transitions. Cut delivery times by 20 days and reduced support debt by 50%."
+            "Resolved complex Shopify POS and Shop app issues",
+            "Turned merchant feedback into product fixes"
           ],
           "skills": [
             "Product Analysis",
@@ -32,45 +44,31 @@
           ]
         },
         {
-          "title": "Support Mentor",
+          "title": "Support Specialist",
           "employment": "Permanent Full-time",
           "location": "Remote",
-          "dates": "Feb 2023 - Apr 2023",
-          "paragraphs": [
-            "Mentored new hires, returning staff, and BPO agents. Training on platform navigation, resource discovery, and tool usage to help merchants grow.",
-            "Impact: Contributed 20+ resources to the knowledge base focused on workflow optimization and merchant growth. Q2 2023 cohort earned QA scores 5% above the average graduate."
+          "dates": "Dec 2021 to Apr 2026",
+          "paragraphs": [],
+          "bullets": [
+            "Supported merchants across Core, Billing and Retail",
+            "Built support operations for new Shopify programs",
+            "Led Retail knowledge management"
           ],
-          "bullets": [],
-          "skills": [
-            "Management",
-            "Project Management"
-          ]
-        },
-        {
-          "title": "Core Support Advisor",
-          "employment": "Permanent Full-time",
-          "location": "Remote",
-          "dates": "Dec 2021 - Jan 2023",
-          "paragraphs": [
-            "Supported U.S. East merchants. Analyzed processes and implemented solutions to meet ecommerce goals.",
-            "Impact: Resolved 16-20 cases daily with 90%+ satisfaction. 7% above company average. Channeled merchant feedback into 300+ product launches. Increased resource adoption 23% with a new allocation system."
-          ],
-          "bullets": [],
           "skills": [
             "Business Development",
-            "Analytics"
+            "Analytics",
+            "Critical Thinking"
           ]
         },
         {
           "title": "Junior Support Advisor",
           "employment": "Permanent Full-time",
           "location": "Canada",
-          "dates": "Feb 2021 - Nov 2021",
-          "paragraphs": [
-            "Supported international and small merchants as they launched, developed, and expanded their businesses.",
-            "Impact: Completed three contracts while meeting ticket quotas and KPIs. Finished projects ahead of schedule while mastering the Shopify platform."
+          "dates": "Feb 2021 to Nov 2021",
+          "paragraphs": [],
+          "bullets": [
+            "Supported merchants launching and growing their businesses"
           ],
-          "bullets": [],
           "skills": [
             "Analytical Skills",
             "Sales"
@@ -87,12 +85,12 @@
           "title": "Founder",
           "employment": "Self-employed",
           "location": "Ontario, Canada · Hybrid",
-          "dates": "Sep 2023 - Present",
-          "paragraphs": [
-            "Designed and built VersaStrength One: A mobile fitness device for full-body home workouts - informed by market research on accessibility and efficiency.",
-            "Accepted into the ElevateIP Spring 2024 cohort with Intellectual Property Ontario (IPON) after proof of concept. Secured grants for patent applications."
+          "dates": "Sep 2023 to Sep 2024",
+          "paragraphs": [],
+          "bullets": [
+            "Took a home fitness device from concept to prototype",
+            "Secured IP Ontario patent funding"
           ],
-          "bullets": [],
           "skills": [
             "Project Management",
             "Product Analysis"
@@ -109,15 +107,12 @@
           "title": "Customer Development",
           "employment": "Permanent Full-time",
           "location": "Houston, Texas, United States",
-          "dates": "Nov 2018 - Feb 2021",
-          "paragraphs": [
-            "Provided and managed Azure cloud services for small businesses. Guided product selection, deployment, and support."
-          ],
+          "dates": "Nov 2018 to Feb 2021",
+          "paragraphs": [],
           "bullets": [
-            "Led user research to align products with business needs, increased customer retention by 15 points from 72% to 87%, lifted sales efficiency 20%, contributed $312K in incremental 2019 revenue.",
-            "Developed three product roadmaps in 2018, increased new client signups 10% from 2,100 to 2,310, produced a $248K sales uplift.",
-            "Onboarded more than 105 businesses to Azure Cloud Services in 2020, generated $482K in sales through needs assessment and service optimization.",
-            "Led infrastructure delivery for the top eight clients, reduced time to market 25%, added $210K in annual sales."
+            "Delivered Azure cloud solutions for small businesses",
+            "Guided product direction through user research",
+            "Grew customer retention and sales"
           ],
           "skills": [
             "Analytical Skills",
@@ -132,19 +127,15 @@
       "short_name": "Portfolio Strategies",
       "roles": [
         {
-          "title": "Administrator - Manager",
+          "title": "Administrator and Manager",
           "employment": "Permanent Part-time",
           "location": "Innisfil, Ontario, Canada · Hybrid",
-          "dates": "Sep 2013 - Sep 2018",
-          "paragraphs": [
-            "Optimized sales team performance to drive growth and revenue."
-          ],
+          "dates": "Sep 2013 to Sep 2018",
+          "paragraphs": [],
           "bullets": [
-            "Led ongoing sales training. Increased new client sign-ups to 104 in 2017 from 82 in 2016 - supported 10% yearly portfolio growth.",
-            "Coordinated with fund managers at Fidelity, HSBC, and RBC - summarized strategies into a sales knowledge base. Reduced sales support queries 27% (2,300 in 2013 to 1,680 in 2016).",
-            "Aligned Legal, Sales, and Compliance to author workflow documentation. Increased client signup rates 5%.",
-            "Authored 103 knowledge documents for a 12-person sales team. Supported a 4% revenue increase from $5.2M in Q1 2017 to $5.4M in Q4 2018.",
-            "Met quarterly and annual commission targets - $289K in 2017 and $312K in 2018."
+            "Led sales training and enablement",
+            "Built the sales knowledge base",
+            "Aligned Sales, Legal and Compliance processes"
           ],
           "skills": [
             "Analytical Skills",
@@ -162,17 +153,42 @@
           "title": "Regional Manager",
           "employment": "Permanent Full-time",
           "location": "Toronto, Ontario, Canada",
-          "dates": "Apr 2010 - Sep 2013",
-          "paragraphs": [
-            "Improved operational performance across corporate and franchise locations by managing to established KPIs.",
-            "Impact: Increased staff retention 20%. Raised stakeholder satisfaction 15%. Reduced supply costs 15%. Signed 3 dealerships and 10 body shops - lifted sales 25%. Managed the top-revenue corporate location and supported franchise scale to 1K units - contributed to 35% revenue growth."
+          "dates": "Apr 2010 to Sep 2013",
+          "paragraphs": [],
+          "bullets": [
+            "Led operations across corporate and franchise locations",
+            "Grew regional revenue through new partnerships",
+            "Improved staff retention"
           ],
-          "bullets": [],
           "skills": [
             "Analytical Skills",
             "Management"
           ]
         }
+      ]
+    }
+  ],
+  "updated": "October 15, 2026",
+  "hero": {
+    "line1": "From support",
+    "line2": "to engineering."
+  },
+  "about": [
+    "I'm an engineer on Shopify's Retail R&D team. I research and develop new Shopify POS hardware, keep checkout reliable and expand Shopify POS payments globally.",
+    "I started at Shopify in merchant support and spent five years across Core, Billing, Retail and Shop. My time with merchants helps me build the best possible user experience."
+  ],
+  "education": [
+    {
+      "school": "York University",
+      "degree": "Bachelor's degree, Philosophy",
+      "dates": "2014 to 2019",
+      "details": [
+        "Dean's list 4 semesters in a row.",
+        "Specialized in analytic philosophy and logic."
+      ],
+      "skills": [
+        "Analytical Skills",
+        "Problem Solving"
       ]
     }
   ]
