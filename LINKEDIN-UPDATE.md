@@ -57,7 +57,7 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
 
 ## New position post
 
-- [ ] **Share the Engineer position** with LinkedIn's Starting a New Position card. Adam is posting it himself. Final text (Adam's edit):
+- [x] **Share the Engineer position** with LinkedIn's Starting a New Position card. Adam posted it himself on October 16, 2026: https://www.linkedin.com/feed/update/urn:li:activity:7516861282474450944/ Final text:
 
 ```
 Five months ago I was asked to help QA test a new Shopify POS device before launch. Last month I joined the Retail Payments R&D team as an Engineer.
