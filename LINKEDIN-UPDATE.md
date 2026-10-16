@@ -57,6 +57,16 @@ Keep it on and visible to recruiters only. Locations (Canada and the United Stat
   - Research And Development Specialist (LinkedIn's spelling)
 - [x] **Start date:** Flexible, I am casually looking. The new Open to Work editor doesn't show this field; it's on https://www.linkedin.com/in/adam-smith-5bb8661ab/opportunities/job-opportunities/onboarding/
 
+## New position post
+
+- [ ] **Share the Engineer position** with LinkedIn's Starting a New Position card. Adam is posting it himself. Final text (Adam's edit):
+
+```
+Five months ago I was asked to help QA test a new Shopify POS device before launch. Last month I joined the Retail Payments R&D team as an Engineer.
+
+Excited to help Shopify POS merchants with the hardware and checkout they rely on every day.
+```
+
 ## Shopify
 
 - [x] **Add position: Engineer, Retail Payments R&D** (title chosen with Adam after trying Engineer, Retail R&D and Engineer, R&D: Retail Payments & New Features)

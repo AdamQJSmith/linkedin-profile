@@ -20,7 +20,13 @@
             "Ensure Shopify POS checkout reliability",
             "Expand Shopify POS payments globally"
           ],
-          "skills": []
+          "skills": [
+            "Payments",
+            "Point of Sale (POS) Systems",
+            "Research and Development (R&D)",
+            "Payment Systems",
+            "FinTech"
+          ]
         },
         {
           "title": "Product Services Support Specialist",
@@ -51,8 +57,7 @@
           "skills": [
             "Business Development",
             "Analytics",
-            "Management",
-            "Project Management"
+            "Critical Thinking"
           ]
         },
         {
@@ -171,5 +176,20 @@
   "about": [
     "I'm an engineer on Shopify's Retail R&D team. I research and develop new Shopify POS hardware, keep checkout reliable and expand Shopify POS payments globally.",
     "I started at Shopify in merchant support and spent five years across Core, Billing, Retail and Shop. My time with merchants helps me build the best possible user experience."
+  ],
+  "education": [
+    {
+      "school": "York University",
+      "degree": "Bachelor's degree, Philosophy",
+      "dates": "2014 to 2019",
+      "details": [
+        "Dean's list 4 semesters in a row.",
+        "Specialized in analytic philosophy and logic."
+      ],
+      "skills": [
+        "Analytical Skills",
+        "Problem Solving"
+      ]
+    }
   ]
 }

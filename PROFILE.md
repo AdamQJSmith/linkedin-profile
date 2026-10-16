@@ -22,6 +22,8 @@ Full-time · Remote
 - Ensure Shopify POS checkout reliability
 - Expand Shopify POS payments globally
 
+Listed skills: Payments, Point of Sale (POS) Systems, Research and Development (R&D), Payment Systems, FinTech
+
 ### Product Services Support Specialist
 
 May 2026 to Sep 2026
@@ -43,7 +45,7 @@ Permanent Full-time · Remote
 - Built support operations for new Shopify programs
 - Led Retail knowledge management
 
-Listed skills: Business Development, Analytics, Management, Project Management
+Listed skills: Business Development, Analytics, Critical Thinking
 
 ### Junior Support Advisor
 
@@ -109,3 +111,17 @@ Permanent Full-time · Toronto, Ontario, Canada
 - Improved staff retention
 
 Listed skills: Analytical Skills, Management
+
+## Education
+
+### York University
+
+Bachelor's degree, Philosophy
+
+2014 to 2019
+
+Dean's list 4 semesters in a row.
+
+Specialized in analytic philosophy and logic.
+
+Listed skills: Analytical Skills, Problem Solving

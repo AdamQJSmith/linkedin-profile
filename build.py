@@ -40,7 +40,18 @@ for company in profile['companies']:
     </section>''')
 
 now = '<hr>'.join(f'<p class="now-title">{e(t)}</p><p>{e(c)} <span>· Since {e(d)}</span></p>' for t, c, d in current)
-nav = ''.join(f'<a href="#{e(c["id"])}">{e(c["short_name"])}</a>' for c in profile['companies'])
+edu_html = ''.join(f'''<article class="role">
+          <div class="role-heading"><h3>{e(ed['degree'])}</h3><p class="dates">{e(ed['dates'])}</p></div>
+          <div class="role-body">{''.join(f'<p>{e(x)}</p>' for x in ed['details'])}</div>
+          <div class="skills" aria-label="Listed skills">{''.join(f'<span>{e(x)}</span>' for x in ed['skills'])}</div>
+        </article>''' for ed in profile.get('education', []))
+edu_section = f'''<section class="company" id="education" aria-labelledby="education-heading">
+      <div class="company-label"><span class="company-number">{len(sections)+1:02d}</span><h2 id="education-heading">{e(profile['education'][0]['school'])}</h2></div>
+      <div class="company-roles">{edu_html}</div>
+    </section>''' if profile.get('education') else ''
+for ed in profile.get('education', []):
+    markdown += ['## Education', '', f"### {ed['school']}", '', ed['degree'], '', ed['dates'], '', *[x + '\n' for x in ed['details']], 'Listed skills: ' + ', '.join(ed['skills']), '']
+nav = ''.join(f'<a href="#{e(c["id"])}">{e(c["short_name"])}</a>' for c in profile['companies']) + ('<a href="#education">Education</a>' if profile.get('education') else '')
 html = f'''<!doctype html>
 <html lang="en">
 <head>
@@ -75,6 +86,7 @@ html = f'''<!doctype html>
       <div class="experience-top" id="experience"><h2>Experience</h2><p>2010 to Present</p></div>
       <nav class="company-nav" aria-label="Jump to company">{nav}</nav>
       {''.join(sections)}
+      {edu_section}
       <section class="connect" aria-labelledby="connect-heading">
         <div><p class="eyebrow">Continue the conversation</p><h2 id="connect-heading">Find me on LinkedIn.</h2></div>
         <a class="button" href="{e(profile['linkedin'])}">Visit my profile <span aria-hidden="true">↗</span></a>
