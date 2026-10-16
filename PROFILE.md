@@ -8,7 +8,7 @@ Updated October 15, 2026. Edit content/profile.json and run python build.py. The
 
 I'm an engineer on Shopify's Retail R&D team. I research and develop new Shopify POS hardware, keep checkout reliable and expand Shopify POS payments globally.
 
-I started at Shopify in merchant support and spent five years across Core, Billing, Retail and Technical Support. My time with merchants helps me build the best possible user experience.
+I started at Shopify in merchant support and spent five years across Core, Billing, Retail and Shop. My time with merchants helps me build the best possible user experience.
 
 ## Shopify
 
