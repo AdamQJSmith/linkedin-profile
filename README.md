@@ -6,13 +6,14 @@ A versioned home for my current LinkedIn experience, with a simple public websit
 - [LinkedIn](https://www.linkedin.com/in/adam-smith-5bb8661ab/)
 - [Readable current profile](PROFILE.md)
 - [Editable profile content](content/profile.json)
+- [LinkedIn update checklist](LINKEDIN-UPDATE.md)
 - [Original pasted text](source/linkedin-original.txt)
 
 ## Current version
 
-The baseline was supplied on October 15, 2026. Experience descriptions, achievements, metrics, dates, and visible skill names are preserved. LinkedIn interface text such as “logo,” “more,” and “+3 skills” is removed from the display; relative duration counts are omitted so they do not become stale. The original copy is retained unchanged.
+Updated October 15, 2026 for Adam's move to Engineer, Retail R&D at Shopify. Shopify positions now match the official titles and dates in Workday. Each role is summed up in up to 3 short lines; the longer versions with metrics stay in source/linkedin-original.txt. AGENTS.md has the style rules and writing rules for future edits.
 
-Only the supplied experience section is included. The short website heading is presentation copy, not a claimed LinkedIn headline. The site does not automatically synchronize with LinkedIn.
+Only the supplied experience section is included. The short website heading is presentation copy and is not a LinkedIn headline. The site does not synchronize with LinkedIn. LINKEDIN-UPDATE.md lists the changes to make there.
 
 ## Edit from another computer
 
@@ -40,7 +41,7 @@ Visit http://127.0.0.1:8000. No packages or API keys are needed. Commit the sour
 
 Suggested prompt for another AI tool:
 
-> Read README.md, AGENTS.md, PROFILE.md, and content/profile.json. Help improve this professional profile while preserving the supplied facts and contribution attribution. Make changes on a branch, run python build.py, and present the changes for review.
+> Read README.md, AGENTS.md, PROFILE.md, LINKEDIN-UPDATE.md and content/profile.json. Help improve this professional profile while preserving the supplied facts and contribution attribution. Follow the style and writing rules in AGENTS.md. Make changes on a branch, run python build.py and present the changes for review.
 
 ## Hosting
 
