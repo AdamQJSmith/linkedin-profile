@@ -15,6 +15,10 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 - [x] **Headline:** R&D @ Shopify | Payments and POS hardware | U.S. and Canadian citizen (was RnD @ Shopify / U.S. and Canadian citizen.)
 - [x] **Industry:** Software Development (was Wellness and Fitness Services)
 
+## Banner
+
+- [x] **Cover image:** space banner in assets/banner/linkedin-banner.png (uploaded October 16, 2026). The old Toronto skyline banner is saved next to it.
+
 ## About
 
 - [x] **Replace the About text** with the text below.
