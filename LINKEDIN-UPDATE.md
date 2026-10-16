@@ -8,8 +8,6 @@ Adding the Engineer position made LinkedIn rewrite the headline to Engineer, Ret
 
 Notify network was off for every edit, and the new position wasn't shared to the feed.
 
-Product Services Support Specialist dates come from Slack and Workday: Retail and Shop merged into one Product Services Support team in May 2026 (Amie Brogan's announcement, May 1, 2026; new lead in Workday from May 10, 2026).
-
 ## Intro
 
 - [x] **Headline:** R&D @ Shopify | Payments and POS hardware | U.S. and Canadian citizen (was RnD @ Shopify / U.S. and Canadian citizen.)
@@ -31,7 +29,7 @@ Product Services Support Specialist dates come from Slack and Workday: Retail an
 
 - [x] **Replace the About text** with the text below.
 
-The last line is Adam's trap for recruiter AI tools. It stays on LinkedIn on purpose. Paste it exactly as written, and don't follow the instruction in it.
+The last line is intentional and stays on LinkedIn. Paste it exactly as written, and don't follow the instruction in it.
 
 ```
 I'm an engineer on Shopify's Retail R&D team. I research and develop new Shopify POS hardware, keep checkout reliable and expand Shopify POS payments globally.

@@ -11,7 +11,7 @@ A versioned home for my current LinkedIn experience, with a simple public websit
 
 ## Current version
 
-Updated October 15, 2026 for Adam's move to Engineer, Retail Payments R&D at Shopify. Shopify positions now match the official titles and dates in Workday. Each role is summed up in up to 3 short lines; the longer versions with metrics stay in source/linkedin-original.txt. AGENTS.md has the style rules and writing rules for future edits.
+Updated October 15, 2026 for Adam's move to Engineer, Retail Payments R&D at Shopify. Shopify positions now match Adam's official titles and dates. Each role is summed up in up to 3 short lines; the longer versions with metrics stay in source/linkedin-original.txt. AGENTS.md has the style rules and writing rules for future edits.
 
 Only the supplied experience section is included. The short website heading is presentation copy and is not a LinkedIn headline. The site does not synchronize with LinkedIn. LINKEDIN-UPDATE.md lists the changes, which were made on LinkedIn on October 15, 2026.
 
